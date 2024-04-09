@@ -3,12 +3,12 @@
 <table>
 <tr>
 <th>Testing</th>
-<td>[Pytest](https://docs.pytest.org/en/stable/)</td>
+<td>[Pytest](https://docs.pytest.org/en/stable).</td>
 </tr>
 
 <tr>
 <th>Package</th>
-<td>[Pytest](https://docs.pytest.org/en/stable/)</td>
+<td>[Pytest](https://docs.pytest.org/en/stable).</td>
 </tr>
 
 <tr>
