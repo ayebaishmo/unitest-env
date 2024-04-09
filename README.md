@@ -48,3 +48,30 @@ Bloomdata is python package that provides fast, flexible, and expressive data st
 <li>Dependecies</li>
 <li>License</li>
 </ol>
+
+
+### Main Features
+
+
+Here are some of the features this repo has.
+
+<ul>
+<li>There are several classes. modules in the folder sprint1 that make up a apackage</li>
+<li>These classes perfom a series of tasks e.g wallet, vehicle, student contain classes that perform basic tasks</li>
+<li>Some modules are imported within other files they help other files to run </li>
+</ul>
+
+
+### Where can you get it.
+
+
+The table above shows the link of package and their documentation for easy understanding.
+You can install the package usign pip or conda 
+
+`# conda
+conda install -c conda-forge <Package>`
+
+`# PyPI
+pip install <Package>`
+
+
