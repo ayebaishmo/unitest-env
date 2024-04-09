@@ -3,7 +3,7 @@ class Wallet:
     # first thing to run when we make a new class
     # outline required user-provided input values
     # parameters with default values assigned are option e.g def __init__(self, initial_amount=0)
-    def __init__(self, initial_amount):
+    def __init__(self, initial_amount = 0):
         # save the user-provided initial_amounut
         self.balance = initial_amount
     
@@ -13,7 +13,7 @@ class Wallet:
             return "not enough  money"
         else:
             self.balance = self.balance - amount
-            return f"remainin balance: {self.balance}"
+            return f"remaining balance: {self.balance}"
     
     def add_cash(self, amount):
         self.balance = self.balance + amount
