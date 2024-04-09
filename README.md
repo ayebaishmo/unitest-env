@@ -1,5 +1,9 @@
 # Bloomdata and test_bloomdata.py
 
+
+## what you will need
+
+
 <table>
 <tr>
 <th>Testing</th>
@@ -74,4 +78,14 @@ conda install -c conda-forge <Package>`
 `# PyPI
 pip install <Package>`
 
+
+### Getting Help
+
+
+For usage questions, the best place to go to is StackOverflow.
+
+
+### License
+
+[MIT](https://opensource.org/license/mit)
 
