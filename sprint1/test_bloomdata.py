@@ -14,3 +14,13 @@ def test_increament_float():
 # check the data type passed
 def test_increment_int_return_type():
     assert isinstance(sblm.increment(3), int)
+
+def test_decrease_int():
+    assert sblm.decrease(3) == 2
+
+def test_count_a():
+    assert sblm.cout([1,2,3,4]) == 4
+
+
+def test_sum():
+    assert sblm.ar([4,5,6]) == 15
