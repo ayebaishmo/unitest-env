@@ -14,5 +14,10 @@
 <tr>
 <th>Meta</th>
 <td>[python](https://www.python.org/)</td>
+<td>
+
+[Duck Duck Go](https://duckduckgo.com)
+
+</td>
 </tr>
 </table>
