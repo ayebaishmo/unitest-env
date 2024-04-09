@@ -13,7 +13,13 @@
 <td>
 
 [Pytest](https://docs.pytest.org/en/stable).</td>
+
+<td>
+
 [numpy](https://numpy.org/).</td>
+
+<td>
+
 [Pandas](https://pandas.org/).</td>
 </tr>
 
