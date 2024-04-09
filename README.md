@@ -3,21 +3,23 @@
 <table>
 <tr>
 <th>Testing</th>
-<td>[Pytest](https://docs.pytest.org/en/stable).</td>
+<td>
+
+[Pytest](https://docs.pytest.org/en/stable).</td>
 </tr>
 
 <tr>
 <th>Package</th>
-<td>[Pytest](https://docs.pytest.org/en/stable).</td>
+<td>
+
+[Pytest](https://docs.pytest.org/en/stable).</td>
 </tr>
 
 <tr>
 <th>Meta</th>
-<td>[python](https://www.python.org/)</td>
 <td>
 
-[Duck Duck Go](https://duckduckgo.com)
-
+[python](https://www.python.org/)
 </td>
 </tr>
 </table>
