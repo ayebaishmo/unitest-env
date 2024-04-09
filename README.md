@@ -54,7 +54,7 @@ Bloomdata is python package that provides fast, flexible, and expressive data st
 </ol>
 
 
-### Main Features
+## Main Features
 
 
 Here are some of the features this repo has.
@@ -66,7 +66,7 @@ Here are some of the features this repo has.
 </ul>
 
 
-### Where can you get it.
+## Where can you get it.
 
 
 The table above shows the link of package and their documentation for easy understanding.
@@ -79,13 +79,13 @@ conda install -c conda-forge <Package>`
 pip install <Package>`
 
 
-### Getting Help
+## Getting Help
 
 
 For usage questions, the best place to go to is StackOverflow.
 
 
-### License
+## License
 
 [MIT](https://opensource.org/license/mit)
 
